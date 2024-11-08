@@ -1,0 +1,2 @@
+C:\schetchi_0.7\Debug\schetchi_0.7.exe
+C:\schetchi_0.7\Debug\schetchi_0.7.pdb
